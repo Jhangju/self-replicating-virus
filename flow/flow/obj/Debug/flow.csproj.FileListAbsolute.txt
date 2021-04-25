@@ -1,0 +1,6 @@
+C:\Users\Irenic\source\repos\flow\flow\bin\Debug\flow.exe.config
+C:\Users\Irenic\source\repos\flow\flow\bin\Debug\flow.exe
+C:\Users\Irenic\source\repos\flow\flow\bin\Debug\flow.pdb
+C:\Users\Irenic\source\repos\flow\flow\obj\Debug\flow.csproj.CoreCompileInputs.cache
+C:\Users\Irenic\source\repos\flow\flow\obj\Debug\flow.exe
+C:\Users\Irenic\source\repos\flow\flow\obj\Debug\flow.pdb
